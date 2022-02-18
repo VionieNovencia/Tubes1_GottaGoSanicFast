@@ -17,5 +17,6 @@ Strategi Algoritma Greedy yang kami gunakan untuk Entelect Challenge 2020 adalah
 7. Untuk menggunakan visualizer, dapat menggunakan dan menginstall dari https://github.com/Affuta/overdrive-round-runner atau menggunakan visualizer online seperti https://entelect-replay.raezor.co.za/#
 
 # US
+Kelompok GottaGoSanicFast
 - Vionie Novencia Thanggestyo - 13520006
 - Jaya Mangalo Soegeng Rahardjo - 13520015
